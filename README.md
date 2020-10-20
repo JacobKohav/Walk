@@ -1,5 +1,4 @@
-# Walk
-Simulation of Random Walks
+# Simulation of Random Walks
 
 
 
